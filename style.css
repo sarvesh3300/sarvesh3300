@@ -1,0 +1,18 @@
+form {
+  border: 2px solid hwb(204 2% 93%); 
+  padding: 20px;
+  width: 50%; 
+  margin: 0 auto; 
+}
+
+button {
+  background-color: #121213; 
+  color: white; 
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9; 
+}
